@@ -1,0 +1,6 @@
+Hello,
+Thank you for reading this.
+
+I chose to use JavaScript as my language because it allows me many avenues of approach to complete any given task.
+
+I chose the Mocha framework because it is efficient and I prefer the 'describe-it' syntax, even though I mix in some Gherkin 'if's, then's, when's' if it will make my output read better.
