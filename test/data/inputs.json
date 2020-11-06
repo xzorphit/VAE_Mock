@@ -1,0 +1,31 @@
+[
+    {        
+        "emailAddress":"xzorphit5@hotmail.com",
+        "pw":"SuperSecretPassword!",
+        "expectedBanner":"You're cool, C'mon in!"
+    },
+
+    
+    {        
+        "firstName":"FakeReal",
+        "lastName":"Person"
+    },
+
+    
+    {        
+        "streetAddress":"Address1",
+        "city":"Germantown",
+        "zipCode":"20874"
+    },
+
+    
+    {        
+        "mobilePhoneNumber":"5555555555",
+        "addressAlias":"Test Address"
+    },
+
+    {        
+        "AuthCookieName":"PrestaShop-a30a9934ef476d11b6cc3c983616e364",
+        "AuthToken":"P7Kc4TcNog6mDRClNOEM1JxyFyZLdYDq7wtt%2FCBJO81SNYXJJBeJSJTNhEr8NdTnAsm1CGLd1t7c4FFjLSqystqrmSEVppWM2oWqlTXdJ6IeIvJt4g3p5PnPy5JeOOtj92pYUaKpdWPFV0r2ZTaEFmyvLhVnrhJ6LFtiSGSYKoyvuawbCQEaoC2gsLhbCOttgGkLN1uKG1xST6fZ9E50X4A3Jp0PaKcEkBZSbrTmltx42FneY7Z80jkqamuinruVfTMwolMGWCmSRQk1cc3eILktapQG9Ufc%2FtynrtLWIQZ4t1bZ1o0vx8HzapkLW6m8DdI2rDzemQnSBqu2YB2d0d%2BtOyxQdctstRUR%2BvfDDx2bmHobXCk8g4ORsq8uK1HgVkDD%2BRhKqhz5H%2BUGeTge1Qb%2FJOazHglTCoQYYfSyZMc%3D000316"
+    }
+]
